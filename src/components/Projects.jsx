@@ -19,7 +19,7 @@ const Projects = () => {
             <div className='flex gap-5 items-center'>
               <a href="https://github.com/Jomar0019/Portfolio/tree/master"><Github size={28} color='white' /></a>
               <span className='text-white'>|</span>
-              <a href="/"><BoxArrowUpRight size={24} color='white'/></a>
+              <a href="https://jomar0019.github.io/Portfolio"><BoxArrowUpRight size={24} color='white'/></a>
             </div>
           </div>
         </div>
