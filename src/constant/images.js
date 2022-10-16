@@ -15,10 +15,11 @@ import node from '../assets/nodejs.svg'
 import react2 from '../assets/react-2.svg'
 import express from '../assets/express.svg'
 import mongo from '../assets/mongodb.svg'
-import portfolio from '../assets/port.png'
+import portfolio from '../assets/portfolio.png'
 import pizza24 from '../assets/24pizza.png'
 import tenzie from '../assets/tenzie.png'
 import notes from '../assets/notes.png'
+import seabnb from '../assets/seabnb.png'
 
 // Social
 import facebook from '../assets/facebook.png'
@@ -42,6 +43,7 @@ export default {
     pizza24,
     tenzie,
     notes,
+    seabnb,
     facebook,
     gmail,
     linkedIn,

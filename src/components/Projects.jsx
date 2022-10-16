@@ -69,9 +69,27 @@ const Projects = () => {
 
             </div>
             <div className='flex items-center justify-center gap-5 mt-3 lg:mt-0'>
-              <a href="123"><Github size={28} color='white' /></a>
+              <a href='$'><Github size={28} color='white' /></a>
               <span className='text-white'>|</span>
-              <a href="123"><BoxArrowUpRight size={24} color='white'/></a>
+              <a href='$'><BoxArrowUpRight size={24} color='white'/></a>
+            </div>
+          </div>
+        </div>
+
+        <div className='border rounded-lg overflow-hidden'>
+          <img src={images.seabnb} alt=""/>
+          <div className='flex flex-col lg:flex-row bg-gray-800 py-2 justify-between px-5'>
+            <div className="flex justify-center  items-center lg:justify-start gap-5">
+              <img src={images.mongo} alt="html5" className=' w-8'/>
+              <img src={images.express} alt="html5" className=' w-10 h-8 px-1 rounded bg-white'/>
+              <img src={images.node} alt="html5" className='w-8'/>
+              <img src={images.tailwind} alt="html5" className='w-8'/>
+
+            </div>
+            <div className='flex items-center justify-center gap-5 mt-3 lg:mt-0'>
+              <a href="https://github.com/Jomar0019/seabnb/tree/master"><Github size={28} color='white' /></a>
+              <span className='text-white'>|</span>
+              <a href="$"><BoxArrowUpRight size={24} color='white'/></a>
             </div>
           </div>
         </div>
